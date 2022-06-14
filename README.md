@@ -13,7 +13,7 @@ Run the following code to see available parameters that can be passed in:
 python slvae.py -h
 ```
 
-# If you find this work useful for your research, please cite
+If you find this work useful for your research, please cite
 ```
 @inproceedings{ling2022source,
   title={Source Localization of Graph Diffusion via Variational Autoencoders for Graph Inverse Problems},
